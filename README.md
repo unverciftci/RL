@@ -14,3 +14,5 @@ https://github.com/tensorforce/tensorforce
 https://github.com/facebookresearch/Horizon
 
 https://github.com/araffin/robotics-rl-srl
+
+https://github.com/tensorflow/agents
