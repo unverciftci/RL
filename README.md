@@ -18,3 +18,5 @@ https://github.com/araffin/robotics-rl-srl
 https://github.com/tensorflow/agents
 
 https://github.com/zuoxingdong/lagom
+
+https://github.com/seungeunrho/minimalRL
