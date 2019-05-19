@@ -16,3 +16,5 @@ https://github.com/facebookresearch/Horizon
 https://github.com/araffin/robotics-rl-srl
 
 https://github.com/tensorflow/agents
+
+https://github.com/zuoxingdong/lagom
