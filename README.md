@@ -22,3 +22,5 @@ https://github.com/zuoxingdong/lagom
 https://github.com/seungeunrho/minimalRL
 
 https://github.com/lcswillems/rl-starter-files
+
+https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0
