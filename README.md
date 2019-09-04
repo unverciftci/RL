@@ -25,4 +25,5 @@ https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPu
 
 https://github.com/MorvanZhou/train-robot-arm-from-scratch
 
+https://github.com/yandexdataschool/Practical_RL
 
