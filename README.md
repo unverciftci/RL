@@ -1,8 +1,6 @@
 # RL
 https://github.com/google/dopamine
 
-https://github.com/openai/baselines
-
 https://janhuenermann.com/blog/learning-to-drive
 
 https://github.com/deepmind/trfl
