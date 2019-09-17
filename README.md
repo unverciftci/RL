@@ -25,3 +25,4 @@ https://github.com/MorvanZhou/train-robot-arm-from-scratch
 
 https://github.com/yandexdataschool/Practical_RL
 
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
