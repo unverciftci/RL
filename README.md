@@ -28,3 +28,5 @@ https://github.com/yandexdataschool/Practical_RL
 https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
 
 http://cherry-rl.net/
+
+https://github.com/NervanaSystems/coach
