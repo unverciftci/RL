@@ -30,3 +30,5 @@ https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
 http://cherry-rl.net/
 
 https://github.com/NervanaSystems/coach
+
+https://github.com/astooke/rlpyt
