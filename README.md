@@ -32,3 +32,5 @@ http://cherry-rl.net/
 https://github.com/NervanaSystems/coach
 
 https://github.com/astooke/rlpyt
+
+https://github.com/catalyst-team/catalyst
