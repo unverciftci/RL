@@ -2,6 +2,8 @@
 
 https://roboticseabass.com/2020/08/02/an-intuitive-guide-to-reinforcement-learning/
 
+https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/
+
 https://roberttlange.github.io/posts/2019/08/blog-post-5/
 
 https://github.com/google/dopamine
