@@ -1,10 +1,14 @@
 # RL
 
+https://markcrowley.ca/rlcourse/
+
 https://roboticseabass.com/2020/08/02/an-intuitive-guide-to-reinforcement-learning/
 
 https://datamachines.xyz/the-hands-on-reinforcement-learning-course-page/
 
 https://roberttlange.github.io/posts/2019/08/blog-post-5/
+
+https://iq.opengenus.org/value-iteration-algorithm/
 
 https://github.com/google/dopamine
 
