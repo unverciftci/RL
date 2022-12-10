@@ -1,4 +1,7 @@
 # RL
+
+https://roboticseabass.com/2020/08/02/an-intuitive-guide-to-reinforcement-learning/
+
 https://github.com/google/dopamine
 
 https://janhuenermann.com/blog/learning-to-drive
